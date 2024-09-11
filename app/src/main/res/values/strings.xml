@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Tennis Trainer App</string>
+    <string name="start_game">Start Game</string>
+    <string name="end_game">End Game</string>
+    <string name="score_format">Score: %1$d</string>
+    <string name="timer_format">Time: %1$s</string>
+</resources>

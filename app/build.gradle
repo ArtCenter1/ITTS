@@ -1,0 +1,21 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+}
+
+android {
+    // ... other configurations ...
+
+    defaultConfig {
+        // ... other configs ...
+        minSdkVersion 24
+        targetSdkVersion 33
+    }
+
+    // ... other android configs ...
+}
+
+dependencies {
+    implementation 'com.google.ar:core:1.36.0'
+    // ... other dependencies ...
+}
